@@ -37,9 +37,10 @@ instead be mailed to the contact listed in the project's CODE_OF_CONDUCT instead
 ## Reviews
 
 We value reviews and attention to detail.  We normally spend several rounds of review. 
-Often, the submitter of a work for review may decide to pursue a different 
-solution.  If this is the case, the new, different solution should be pursued
-in a different issue.  Please link the issues in the issue discussion to preserve
+Often, things are learned in the review process and the submitter of a work for review 
+may decide to pursue a different solution (Reviewers should however make every 
+effort to be inclusive to new ideas).  If a different solution is pursued, it should
+be in a different issue. Please link both issues in the issue discussion to preserve
 this relationship.
 
 ## Discussions
