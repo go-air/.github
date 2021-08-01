@@ -33,6 +33,8 @@ for the project.
 3. If the filing is on behalf of an organisation, it should provide contact
 in the issue.  If this is not preferred, the contact information may
 instead be mailed to the contact listed in the project's CODE_OF_CONDUCT instead.
+4. If and when the pull request associated with the filing issue is merged, the
+request is considered accepted.
 
 ## Reviews
 
@@ -49,7 +51,7 @@ We use GitHub discussions as a place for higher level discussions, perhaps
 coordinating several issues or one very big one, or perhaps just 
 asking a question. Please use issues for specific, concrete technical 
 issues such as bugs, benchmarks, feature requests, etc.  Discussions can
-also be used to discuss the repository organisation.
+also be used to discuss the repository community organisation.
 
 Enjoy,
 
