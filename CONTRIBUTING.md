@@ -1,8 +1,31 @@
-# Contributing
+# Contributing to Go-air
+
+There are several ways to contribute to Go-air.  Please keep in
+mind our code of conduct.
+
+## Experience Reports
+
+Let us and everyone know if you are using our software.  If
+so, how is it going?  What works well?  What can we improve?
+
+## Asking questions
+
+Use our issue trackers to ask questions.
+
+## Report bugs
+
+File an issue on the repository for the software where you
+found a bug.
+
+## Discussions
+
+Have an idea you would like us to explore?  Drop a note
+in our discussion area associated with each repository. 
+
 
 Go-air projects follow some general contribution guidelines.
 
-## Projects and Issues
+## Developer Contributions
 
 Each public repo has a single GitHub project to help organise work.  Projects
 can have notes or issues.  Issues are automatically present in the 
@@ -12,7 +35,7 @@ Please try to ensure that all issues are labelled with the project.
 Projects are organised into 4 columns, "Backlog" (aka not as of yet planned), 
 "To do" (aka planned), "In progress", "Done".
 
-## Copyrights
+### Copyrights
 
 Each public repo has a standard OSI license.  In order to contribute code
 or copyrightable material in a commit into the repository, the committer
@@ -36,7 +59,7 @@ instead be mailed to the contact listed in the project's CODE_OF_CONDUCT instead
 4. If and when the pull request associated with the filing issue is merged, the
 request is considered accepted.
 
-## Reviews
+### Reviews
 
 We value reviews and attention to detail.  We normally spend several rounds of review. 
 Often, things are learned in the review process and the submitter of a work for review 
@@ -45,13 +68,10 @@ effort to be inclusive to new ideas).  If a different solution is pursued, it sh
 be in a different issue. Please link both issues in the issue discussion to preserve
 this relationship.
 
-## Discussions
+## Thanks
 
-We use GitHub discussions as a place for higher level discussions, perhaps
-coordinating several issues or one very big one, or perhaps just 
-asking a question. Please use issues for specific, concrete technical 
-issues such as bugs, benchmarks, feature requests, etc.  Discussions can
-also be used to discuss the repository community organisation.
+Thanks for your interest in contributing to Go-air.  If you have any questions
+feel free to contact us.
 
 Enjoy,
 
