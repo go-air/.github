@@ -53,9 +53,10 @@ an issue with label "cla" requesting to be added in the AUTHORs file.
 with the change to the file.  If not, a maintainer will do this.  The
 pull request will be reviewed and directed to the appropriate branch
 for the project.
-3. If the filing is on behalf of an organisation, it should provide contact
-in the issue.  If this is not preferred, the contact information may
-instead be mailed to the contact listed in the project's CODE_OF_CONDUCT instead.
+3. If the filing is on behalf of an organisation, it should provide contact info
+for the organisation in the issue.  If this is not preferred, the contact 
+information may instead be mailed to the contact listed in the project's 
+CODE_OF_CONDUCT instead.
 4. If and when the pull request associated with the filing issue is merged, the
 request is considered accepted.
 
