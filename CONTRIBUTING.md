@@ -3,19 +3,20 @@
 There are several ways to contribute to Go-air.  Please keep in
 mind our code of conduct.
 
-## Experience Reports
+## Let us know what you are doing with the software.
 
 Let us and everyone know if you are using our software.  If
 so, how is it going?  What works well?  What can we improve?
 
-## Asking questions
+## Asking questions.
 
 Use our issue trackers to ask questions.
 
-## Report bugs
+## Report bugs and nits.
 
-File an issue on the repository for the software where you
-found a bug.
+File an issue on the repository for the software where you found a bug.  We
+also welcome 'nit' reports which are things that bother the users but are not
+really bugs.
 
 ## Discussions
 
@@ -48,19 +49,21 @@ However, whether agreeing to grant copyright to the project is an act of
 an individual or an organisation, the process at Go-air is the same: 
 
 1. The individual or a suitable representative their organisation must file 
-an issue with label "cla" requesting to be added in the AUTHORs file.
+an issue with label "cla" requesting the right to be added in the AUTHORs file.  The
+project should have this as an optional issue template when filing, with 
+text pre-filled to grant rights to the project.
 2. If the filer of this issue is able, they should create a pull request 
-with the change to the file.  If not, a maintainer will do this.  The
+with the change to the file, or include the change in their first pull request. 
+If the filer is not able, a maintainer will do this.  The
 pull request will be reviewed and directed to the appropriate branch
 for the project.
 3. If the filing is on behalf of an organisation, it should provide contact info
 for the organisation in the issue.  If this is not preferred, the contact 
 information may instead be mailed to the contact listed in the project's 
-CODE_OF_CONDUCT instead.
-4. The request is considered accepted if a member closes the issue with comment 
-"Approved."
-6. Once the request is approved by a member, the first PR of the new Author 
-should contain the corresponding change to the AUTHORS file.
+CODE\_OF\_CONDUCT instead.
+4. Once the associated pull request is merged, the request to grant
+copy rights is granted.
+
 ### Reviews
 
 We value reviews and attention to detail.  We normally spend several rounds of review. 
