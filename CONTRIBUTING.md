@@ -57,9 +57,10 @@ for the project.
 for the organisation in the issue.  If this is not preferred, the contact 
 information may instead be mailed to the contact listed in the project's 
 CODE_OF_CONDUCT instead.
-4. If and when the pull request associated with the filing issue is merged, the
-request is considered accepted.
-
+4. The request is considered accepted if a member closes the issue with comment 
+"Approved."
+6. Once the request is approved by a member, the first PR of the new Author 
+should contain the corresponding change to the AUTHORS file.
 ### Reviews
 
 We value reviews and attention to detail.  We normally spend several rounds of review. 
